@@ -1,4 +1,4 @@
-# Hola, soy Yesica Llano Montoya 👋
+Yesica Llano Montoya 
 
 **Desarrolladora de Software y Automatización de Procesos** · Administradora de Sistemas Informáticos – Universidad Nacional de Colombia · Especializándome en Inteligencia Artificial
 
@@ -6,14 +6,14 @@ Me apasiona construir software que resuelva problemas reales de las organizacion
 
 📍 Manizales, Colombia · Disponible para trabajo remoto
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 - **Lenguajes:** Python, PHP, JavaScript, C# (.NET)
 - **Frameworks:** .NET, React, Laravel, Node.js
 - **Datos:** Bases de datos relacionales (SQL) y no relacionales (NoSQL)
 - **Herramientas:** Git, GitHub, Docker
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 | Proyecto | Descripción |
 |---|---|
@@ -24,8 +24,8 @@ Me apasiona construir software que resuelva problemas reales de las organizacion
 | [facial-colorimetry](https://github.com/yllano/facial-colorimetry) | App de análisis de colorimetría facial con MediaPipe y clustering (Gradio) |
 | [ejemplo_serverles](https://github.com/yllano/ejemplo_serverles) | Demo de arquitectura serverless en Cloudflare Workers |
 
-## 📫 Contacto
+## Contacto
 
-- 🌐 Portafolio: [yllano.github.io](https://yllano.github.io)
-- 💼 LinkedIn: [Yesica Llano Montoya](https://www.linkedin.com/in/yesica-llano-montoya-a87131364/)
-- ✉️ yllano@unal.edu.co
+- Portafolio: [yllano.github.io](https://yllano.github.io)
+- LinkedIn: [Yesica Llano Montoya](https://www.linkedin.com/in/yesica-llano-montoya-a87131364/)
+- yllano@unal.edu.co
